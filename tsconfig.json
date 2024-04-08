@@ -8,5 +8,7 @@
     "moduleResolution": "node",
     "esModuleInterop": true,
     "types": ["node"]
-  }
+  },
+  "include": ["src/**/*.ts"]  // Make sure all TypeScript files under src are included,
+  
 }
