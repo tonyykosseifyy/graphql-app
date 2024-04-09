@@ -1,4 +1,4 @@
-# 🚀 Game Project - Learning GraphQL!
+# 🚀 Game Review GraphQL Server - Learning GraphQL!
 
 Welcome to my Game Review GraphQL Server! This is a simple, playful project where I'm learning the ropes of GraphQL. It's all about managing data for games, authors, and reviews with a touch of GraphQL magic.
 
